@@ -33,9 +33,9 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - If you have any suggestions or feedback, please don't hesitate to reach out!
 
 ## Connect with Me
-- [GitHub](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [GitHub](https://github.com/prathibha97)
+- [LinkedIn](www.linkedin.com/in/prathibha-ratnayake)
+- [Portfolio](https://prathibha-portfolio.vercel.app)
 
 ## Acknowledgements
 Special thanks to Dr. Angela Yu for creating this amazing Python Pro Bootcamp!
