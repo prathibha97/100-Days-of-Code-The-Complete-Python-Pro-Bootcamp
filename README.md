@@ -17,8 +17,8 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 2](Day2/README.md): Understanding Data Types and Manipulating Strings
 - [Day 3](Day3/README.md): Control Flow and Conditional Statements
 - [Day 4](Day4/README.md): Randomisation and Python Lists
-<!-- - [Day 5](Day5/README.md): Python Loops
-- [Day 6](Day6/README.md): Python Functions & Karel -->
+- [Day 5](Day5/README.md): Python Loops
+<!-- - [Day 6](Day6/README.md): Python Functions & Karel -->
 - ...
 
 ## Projects
