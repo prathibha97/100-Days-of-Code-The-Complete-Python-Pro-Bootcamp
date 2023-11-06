@@ -19,7 +19,8 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 4](Day4/README.md): Randomisation and Python Lists
 - [Day 5](Day5/README.md): Python Loops
 - [Day 6](Day6/README.md): Python Functions & Karel
-- [Day 7](Day6/README.md): Hangman
+- [Day 7](Day7/README.md): Python Hangman Game
+- [Day 7](Day8/README.md): Function Parameters & Caesar Cipher
 - ...
 
 ## Projects
