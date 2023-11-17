@@ -20,7 +20,8 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 5](Day5/README.md): Python Loops
 - [Day 6](Day6/README.md): Python Functions & Karel
 - [Day 7](Day7/README.md): Python Hangman Game
-- [Day 7](Day8/README.md): Function Parameters & Caesar Cipher
+- [Day 8](Day8/README.md): Function Parameters & Caesar Cipher
+- [Day 9](Day9/README.md): Dictionaries, Nesting and the Secret Auction
 - ...
 
 ## Projects
