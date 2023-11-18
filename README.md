@@ -26,6 +26,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 11](Day11/README.md): Blackjack Capstone Project
 - [Day 12](Day12/README.md): Scope and Namespacing in Python
 - [Day 13](Day13/README.md): Debugging Techniques
+- [Day 14](Day14/README.md): Higher Lower Game
 - ...
 
 ## Projects
