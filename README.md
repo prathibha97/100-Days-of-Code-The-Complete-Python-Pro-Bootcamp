@@ -22,6 +22,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 7](Day7/README.md): Python Hangman Game
 - [Day 8](Day8/README.md): Function Parameters & Caesar Cipher
 - [Day 9](Day9/README.md): Dictionaries, Nesting and the Secret Auction
+- [Day 10](Day10/README.md): Functions with Outputs & Calculator App
 - ...
 
 ## Projects
