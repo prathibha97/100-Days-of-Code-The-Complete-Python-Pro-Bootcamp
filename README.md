@@ -27,6 +27,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 12](Day12/README.md): Scope and Namespacing in Python
 - [Day 13](Day13/README.md): Debugging Techniques
 - [Day 14](Day14/README.md): Higher Lower Game
+- [Day 15](Day15/README.md): Local Development Environment Setup
 - ...
 
 ## Projects
