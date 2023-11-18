@@ -24,7 +24,8 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 9](Day9/README.md): Dictionaries, Nesting and the Secret Auction
 - [Day 10](Day10/README.md): Functions with Outputs & Calculator App
 - [Day 11](Day11/README.md): Blackjack Capstone Project
-- [Day 11](Day12/README.md): Scope and Namespacing in Python
+- [Day 12](Day12/README.md): Scope and Namespacing in Python
+- [Day 13](Day13/README.md): Debugging Techniques
 - ...
 
 ## Projects
