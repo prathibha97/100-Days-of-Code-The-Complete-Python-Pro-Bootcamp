@@ -28,6 +28,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 13](Day13/README.md): Debugging Techniques
 - [Day 14](Day14/README.md): Higher Lower Game
 - [Day 15](Day15/README.md): Local Development Environment Setup
+- [Day 16](Day16/README.md): Object-Oriented Programming (OOP) - Coffee Machine
 - ...
 
 ## Projects
