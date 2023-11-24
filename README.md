@@ -31,6 +31,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 16](Day16/README.md): Object-Oriented Programming (OOP) - Coffee Machine
 - [Day 17](Day17/README.md): The Quiz Project & the Benefits of OOP
 - [Day 18](Day18/README.md): Turtle Graphics - Hirst Painting
+- [Day 19](Day19/README.md): Instances, State, and Higher Order Functions
 - ...
 
 ## Projects
