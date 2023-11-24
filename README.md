@@ -32,6 +32,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 17](Day17/README.md): The Quiz Project & the Benefits of OOP
 - [Day 18](Day18/README.md): Turtle Graphics - Hirst Painting
 - [Day 19](Day19/README.md): Instances, State, and Higher Order Functions
+- [Day 20](Day20/README.md): Snake Game Part 1 - Animation & Coordinates
 - ...
 
 ## Projects
