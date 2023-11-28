@@ -35,6 +35,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 20](Day20/README.md): Snake Game Part 1 - Animation & Coordinates
 - [Day 21](Day21/README.md): Snake Game Part 2 - Control, Direction, and Collision Detection
 - [Day 22](Day22/README.md): Build Pong - The Famous Arcade Game
+- [Day 23](Day23/README.md): The Turtle Crossing Capstone Project
 - ...
 
 ## Projects
