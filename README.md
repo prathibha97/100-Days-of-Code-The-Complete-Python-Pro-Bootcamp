@@ -33,6 +33,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 18](Day18/README.md): Turtle Graphics - Hirst Painting
 - [Day 19](Day19/README.md): Instances, State, and Higher Order Functions
 - [Day 20](Day20/README.md): Snake Game Part 1 - Animation & Coordinates
+- [Day 21](Day21/README.md): Snake Game Part 2 - Control, Direction, and Collision Detection
 - ...
 
 ## Projects
