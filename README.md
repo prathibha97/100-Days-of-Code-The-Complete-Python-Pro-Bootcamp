@@ -38,6 +38,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 23](Day23/README.md): The Turtle Crossing Capstone Project
 - [Day 24](Day24/README.md): Files, Directories, and Paths
 - [Day 25](Day25/README.md): Working with CSV Data and the Pandas Library
+- [Day 26](Day26/README.md): List Comprehension and the NATO Alphabet
 - ...
 
 ## Projects
