@@ -40,6 +40,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 25](Day25/README.md): Working with CSV Data and the Pandas Library
 - [Day 26](Day26/README.md): List Comprehension and the NATO Alphabet
 - [Day 27](Day27/README.md): Tkinter, args, kwargs, and Creating GUI Programs
+- [Day 28](Day28/README.md): Tkinter, Dynamic Typing, and the Pomodoro GUI Application
 - ...
 
 ## Projects
