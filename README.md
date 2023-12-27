@@ -43,6 +43,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 28](Day28/README.md): Tkinter, Dynamic Typing, and the Pomodoro GUI Application
 - [Day 29](Day29/README.md): Building a Password Manager GUI App with Tkinter
 - [Day 30](Day30/README.md): Errors, Exceptions, and JSON Data - Improving the Password Manager
+- [Day 31](Day31/README.md): Flash Card App Capstone Project
 - ...
 
 ## Projects
