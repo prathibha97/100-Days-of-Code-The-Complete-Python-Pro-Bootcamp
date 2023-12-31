@@ -48,6 +48,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 33](Day33/README.md): API Endpoints, API Parameters - ISS Overhead Notifier
 - [Day 34](Day34/README.md): API Practice - Creating a GUI Quiz App
 - [Day 35](Day35/README.md): Keys, Authentication, and Environment Variables - Send SMS
+- [Day 36](Day36/README.md): Stock Trading News Alert Project
 - ...
 
 ## Projects
