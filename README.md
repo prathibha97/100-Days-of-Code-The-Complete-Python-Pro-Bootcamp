@@ -50,6 +50,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 35](Day35/README.md): Keys, Authentication, and Environment Variables - Send SMS
 - [Day 36](Day36/README.md): Stock Trading News Alert Project
 - [Day 37](Day37/README.md): Habit Tracking Project - API Post Requests and Headers
+- [Day 38](Day38/README.md): Workout Tracking Using Google Sheets
 - ...
 
 ## Projects
