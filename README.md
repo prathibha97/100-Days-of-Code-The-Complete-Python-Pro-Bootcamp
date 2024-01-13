@@ -56,6 +56,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 41](Day41/README.md): Introduction to HTML
 - [Day 42](Day42/README.md): Intermediate HTML
 - [Day 43](Day43/README.md): Introduction to CSS
+- [Day 44](Day44/README.md): Intermediate CSS
 - ...
 
 ## Projects
