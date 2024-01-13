@@ -53,6 +53,8 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 38](Day38/README.md): Workout Tracking Using Google Sheets
 - [Day 39](Day39/README.md): Capstone Part 1 - Flight Deal Finder
 - [Day 40](Day40/README.md): Capstone Part 2 - Flight Club
+- [Day 41](Day41/README.md): Introduction to HTML
+- 
 - ...
 
 ## Projects
