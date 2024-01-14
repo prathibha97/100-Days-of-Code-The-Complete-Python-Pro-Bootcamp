@@ -57,7 +57,8 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 42](Day42/README.md): Intermediate HTML
 - [Day 43](Day43/README.md): Introduction to CSS
 - [Day 44](Day44/README.md): Intermediate CSS
-- [Day 45](Day44/README.md): Web Scraping with Beautiful Soup
+- [Day 45](Day45/README.md): Web Scraping with Beautiful Soup
+- [Day 46](Day46/README.md): Create a Spotify Playlist using the Musical Time Machine
 - ...
 
 ## Projects
