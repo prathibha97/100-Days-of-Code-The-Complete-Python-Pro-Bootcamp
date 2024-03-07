@@ -62,6 +62,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 47](Day47/README.md): Create an Automated Amazon Price Tracker
 - [Day 48](Day48/README.md): Selenium Webdriver Browser and Game Playing Bot
 - [Day 49](Day49/README.md): Automating Job Applications on LinkedIn
+- [Day 50](Day50/README.md): Auto Tinder Swiping Bot
 - ...
 
 ## Projects
