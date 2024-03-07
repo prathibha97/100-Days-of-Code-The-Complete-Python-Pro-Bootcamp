@@ -61,6 +61,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 46](Day46/README.md): Create a Spotify Playlist using the Musical Time Machine
 - [Day 47](Day47/README.md): Create an Automated Amazon Price Tracker
 - [Day 48](Day48/README.md): Selenium Webdriver Browser and Game Playing Bot
+- [Day 49](Day49/README.md): Automating Job Applications on LinkedIn
 - ...
 
 ## Projects
