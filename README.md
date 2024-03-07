@@ -64,6 +64,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 49](Day49/README.md): Automating Job Applications on LinkedIn
 - [Day 50](Day50/README.md): Auto Tinder Swiping Bot\
 - [Day 51](Day51/README.md): Internet Speed Twitter Complaint Bot
+- [Day 52](Day52/README.md): Instagram Follower Bot
 - ...
 
 ## Projects
