@@ -66,6 +66,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 51](Day51/README.md): Internet Speed Twitter Complaint Bot
 - [Day 52](Day52/README.md): Instagram Follower Bot
 - [Day 53](Day53/README.md): Web Scraping Capstone - Data Entry Job Automation
+- [Day 54](Day54/README.md): Introduction to Web Development with Flask
 - ...
 
 ## Projects
