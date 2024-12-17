@@ -4,7 +4,7 @@
 Hello again! Today is the fifty-fourth day of my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp for 2023.
 
 ## Today's Progress
-I worked on the Web Scraping Capstone - Data Entry Job Automation. This project involves automating the extraction and entry of job data from a website.
+I started learning about web development using Flask. This is an exciting transition into building web applications using Python!
 
 ## What I've Learned
 - Basics of Flask, a lightweight web framework for Python.
