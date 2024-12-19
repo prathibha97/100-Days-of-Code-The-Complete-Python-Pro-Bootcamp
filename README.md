@@ -68,6 +68,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 53](Day53/README.md): Web Scraping Capstone - Data Entry Job Automation
 - [Day 54](Day54/README.md): Introduction to Web Development with Flask
 - [Day 55](Day55/README.md): HTML, URL Parsing in Flask, and the Higher Lower Game
+- [Day 56](Day56/README.md): Rendering HTML, Static Files, and Using Website Templates
 - ...
 
 ## Projects
