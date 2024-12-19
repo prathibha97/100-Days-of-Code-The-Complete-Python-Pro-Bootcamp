@@ -69,6 +69,7 @@ Welcome to my 100 Days of Code journey with Dr. Angela Yu's Python Pro Bootcamp 
 - [Day 54](Day54/README.md): Introduction to Web Development with Flask
 - [Day 55](Day55/README.md): HTML, URL Parsing in Flask, and the Higher Lower Game
 - [Day 56](Day56/README.md): Rendering HTML, Static Files, and Using Website Templates
+- [Day 56](Day57/README.md): Templating with Jinja in Flask Applications
 - ...
 
 ## Projects
